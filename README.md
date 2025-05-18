@@ -1,2 +1,4 @@
 # CFDAirfoilComparisonStudy
-Analyzed aerodynamic performance of NACA airfoils using XFOIL and Python. Compared lift and drag behavior across angles of attack to evaluate subsonic airfoil efficiency for aircraft design.
+This project was focused on analyzing and comparing the aerodynamic characteristics of several airfoils using XFOIL and Python. I selected commonly used airfoils, such as the NACA 2412 and 4412, to evaluate their lift and drag performance across a range of angles of attack. This work was inspired by my interest in aerodynamic modeling and my previous experience simulating wing shapes for commercial aircraft.
+
+The main objective was to determine which airfoil offered the highest lift-to-drag ratio and most favorable stall behavior under typical subsonic flight conditions. I used XFOIL to simulate the performance of each airfoil and extracted data for lift coefficient, drag coefficient, and Cl/Cd ratios. I then wrote Python scripts to visualize the data and identify trends in performance across different operating conditions.
